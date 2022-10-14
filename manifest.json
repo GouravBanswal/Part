@@ -8,7 +8,7 @@
     "display":"standalone",
     "icons":[
         {
-            "scr":"./assets/images/SKILLHUB-48-48.png",
+            "src":"./assets/images/SKILLHUB-48-48.png",
             "type":"image/png",
             "sizes":"48x48"
         },
